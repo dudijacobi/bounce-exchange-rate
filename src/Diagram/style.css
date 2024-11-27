@@ -1,0 +1,5 @@
+.diagram {
+  display: flex;
+  width: 100vw;
+  height: calc(100vh - 140px); /* 140px is the height of the header */
+}
